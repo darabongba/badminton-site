@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-09-21T09:02:18Z",
+  "site_title": "羽毛球教程",
+  "videos": [],
+  "categories": [],
+  "path": [],
+  "path_order": [
+    "grip",
+    "serve",
+    "clear",
+    "footwork",
+    "drop",
+    "lift",
+    "net",
+    "smash",
+    "defense",
+    "doubles",
+    "tactics"
+  ],
+  "path_optional": [
+    "doubles",
+    "tactics"
+  ],
+  "category_names": {
+    "grip": "握拍与站位",
+    "serve": "发球",
+    "clear": "高远球",
+    "drop": "吊球",
+    "smash": "杀球",
+    "net": "网前",
+    "lift": "挑球与过渡",
+    "defense": "接杀与防守",
+    "footwork": "步法",
+    "doubles": "双打",
+    "tactics": "战术与意识"
+  },
+  "difficulty_names": {
+    "beginner": "入门",
+    "intermediate": "进阶",
+    "advanced": "高阶"
+  },
+  "launch_ready": false
+}
