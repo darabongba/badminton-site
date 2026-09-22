@@ -1,26 +1,11 @@
 {
-  "generated_at": "2026-09-21T09:02:18Z",
+  "generated_at": "",
   "site_title": "羽毛球教程",
   "videos": [],
   "categories": [],
   "path": [],
-  "path_order": [
-    "grip",
-    "serve",
-    "clear",
-    "footwork",
-    "drop",
-    "lift",
-    "net",
-    "smash",
-    "defense",
-    "doubles",
-    "tactics"
-  ],
-  "path_optional": [
-    "doubles",
-    "tactics"
-  ],
+  "path_order": ["grip", "serve", "clear", "footwork", "drop", "lift", "net", "smash", "defense", "doubles", "tactics"],
+  "path_optional": ["doubles", "tactics"],
   "category_names": {
     "grip": "握拍与站位",
     "serve": "发球",

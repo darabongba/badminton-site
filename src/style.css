@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --color-court: #0f1714;
+  --color-panel: #1a2620;
+  --color-ink: #e8f0ea;
+  --color-mute: #9bb0a3;
+  --color-accent: #3dcc8a;
+  --color-line: #2a3b32;
+  --color-chip: #24352c;
+  --color-on-accent: #062016;
+}
+
+html,
+body,
+#app {
+  min-height: 100%;
+  background-color: var(--color-court);
+  color: var(--color-ink);
+}
