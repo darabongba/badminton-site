@@ -24,8 +24,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     env:
-      PAGES_REPO: niceaitools/badminton-tutorials
-      PAGES_URL: https://niceaitools.github.io/badminton-tutorials/
+      PAGES_REPO: bbbadminton/bbbadminton.github.io
+      PAGES_URL: https://bbbadminton.github.io/
 
     steps:
       - name: 📥 检出代码
@@ -101,7 +101,7 @@ jobs:
 
           touch .nojekyll
           {
-            echo "# badminton-tutorials Deploy"
+            echo "# bbbadminton Deploy"
             echo ""
             echo "羽毛球教程 - 自动部署于 $(date '+%Y-%m-%d %H:%M:%S UTC')"
             echo ""

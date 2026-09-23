@@ -1,11 +1,98 @@
 {
-  "generated_at": "",
+  "generated_at": "2026-09-23T10:00:28Z",
   "site_title": "羽毛球教程",
-  "videos": [],
-  "categories": [],
+  "videos": [
+    {
+      "bvid": "BV19UCeBfEqt",
+      "title": "24.25)双打秘籍-灵活多变的“封网技术”(一)",
+      "cover_url": "",
+      "duration_sec": 548,
+      "up_name": "CD唐生",
+      "video_url": "https://www.bilibili.com/video/BV19UCeBfEqt",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV19UCeBfEqt&high_quality=1",
+      "primary_category": "net",
+      "secondary_category": "doubles",
+      "difficulty": "intermediate",
+      "recommend_reason": "适合有一定基础的羽毛球双打爱好者，学习灵活多变的双打封网技术，帮助提升网前对抗能力。",
+      "in_path": false,
+      "path_order": 0
+    },
+    {
+      "bvid": "BV1oyCeBaEc8",
+      "title": "双打秘籍-双打如何帮助搭档补位？",
+      "cover_url": "",
+      "duration_sec": 548,
+      "up_name": "CD唐生",
+      "video_url": "https://www.bilibili.com/video/BV1oyCeBaEc8",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV1oyCeBaEc8&high_quality=1",
+      "primary_category": "doubles",
+      "secondary_category": "tactics",
+      "difficulty": "intermediate",
+      "recommend_reason": "适合想要提升双打水平的业余爱好者，解决双打搭档跑位重叠漏球问题，帮助掌握正确的补位思路。",
+      "in_path": false,
+      "path_order": 0
+    },
+    {
+      "bvid": "BV15SCeBFEum",
+      "title": "双打秘籍-双打如何帮助搭档补位？",
+      "cover_url": "",
+      "duration_sec": 521,
+      "up_name": "CD唐生",
+      "video_url": "https://www.bilibili.com/video/BV15SCeBFEum",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV15SCeBFEum&high_quality=1",
+      "primary_category": "doubles",
+      "secondary_category": "tactics",
+      "difficulty": "intermediate",
+      "recommend_reason": "适合有一定基础的羽毛球双打爱好者，解决双打配合中漏位、跑位混乱的问题，帮助掌握双打搭档间补位的方法。",
+      "in_path": false,
+      "path_order": 0
+    },
+    {
+      "bvid": "BV1LmCeBhEbG",
+      "title": "35.36)双打秘籍-双打网前技术“反手抹球技术动作”",
+      "cover_url": "",
+      "duration_sec": 279,
+      "up_name": "CD唐生",
+      "video_url": "https://www.bilibili.com/video/BV1LmCeBhEbG",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV1LmCeBhEbG&high_quality=1",
+      "primary_category": "net",
+      "secondary_category": "doubles",
+      "difficulty": "intermediate",
+      "recommend_reason": "适合有一定基础的羽毛球双打爱好者，学习双打网前反手抹球技术，可针对性练习规范该动作。",
+      "in_path": false,
+      "path_order": 0
+    }
+  ],
+  "categories": [
+    {
+      "slug": "net",
+      "name": "网前",
+      "count": 2
+    },
+    {
+      "slug": "doubles",
+      "name": "双打",
+      "count": 2
+    }
+  ],
   "path": [],
-  "path_order": ["grip", "serve", "clear", "footwork", "drop", "lift", "net", "smash", "defense", "doubles", "tactics"],
-  "path_optional": ["doubles", "tactics"],
+  "path_order": [
+    "grip",
+    "serve",
+    "clear",
+    "footwork",
+    "drop",
+    "lift",
+    "net",
+    "smash",
+    "defense",
+    "doubles",
+    "tactics"
+  ],
+  "path_optional": [
+    "doubles",
+    "tactics"
+  ],
   "category_names": {
     "grip": "握拍与站位",
     "serve": "发球",
