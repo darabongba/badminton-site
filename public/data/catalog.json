@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:00:28Z",
+  "generated_at": "2026-10-02T16:00:40Z",
   "site_title": "羽毛球教程",
   "videos": [
     {
@@ -61,18 +61,113 @@
       "recommend_reason": "适合有一定基础的羽毛球双打爱好者，学习双打网前反手抹球技术，可针对性练习规范该动作。",
       "in_path": false,
       "path_order": 0
+    },
+    {
+      "bvid": "BV1Ai756oEbD",
+      "title": "反手高远球提高稳定性的技巧！高架拍和低架拍使用场景！以及调整步的使用！",
+      "cover_url": "",
+      "duration_sec": 480,
+      "up_name": "大G羽毛球",
+      "video_url": "https://www.bilibili.com/video/BV1Ai756oEbD",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV1Ai756oEbD&high_quality=1",
+      "primary_category": "clear",
+      "secondary_category": "footwork",
+      "difficulty": "intermediate",
+      "recommend_reason": "适合有一定反手基础的业余羽毛球爱好者，帮助提升反手高远球稳定性，掌握不同场景下的架拍选择和调整步的使用方法。",
+      "in_path": false,
+      "path_order": 0
+    },
+    {
+      "bvid": "BV1ReEd6wE1V",
+      "title": "业余新手学跳杀的关键！优先做好摆臂起跳和加快挥速！",
+      "cover_url": "",
+      "duration_sec": 818,
+      "up_name": "大G羽毛球",
+      "video_url": "https://www.bilibili.com/video/BV1ReEd6wE1V",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV1ReEd6wE1V&high_quality=1",
+      "primary_category": "smash",
+      "secondary_category": "footwork",
+      "difficulty": "beginner",
+      "recommend_reason": "适合想要学习跳杀的业余羽毛球新手，帮助新手抓住跳杀入门练习的关键，可针对性训练摆臂起跳动作与挥速",
+      "in_path": false,
+      "path_order": 7
+    },
+    {
+      "bvid": "BV1ADeA6vEMY",
+      "title": "反手过渡球教学！小吉祥物冰吸乐乐上线了！羽毛球反手直线斜线丝滑过渡！",
+      "cover_url": "",
+      "duration_sec": 541,
+      "up_name": "大G羽毛球",
+      "video_url": "https://www.bilibili.com/video/BV1ADeA6vEMY",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV1ADeA6vEMY&high_quality=1",
+      "primary_category": "lift",
+      "secondary_category": "",
+      "difficulty": "intermediate",
+      "recommend_reason": "适合想要提升反手技术的羽毛球爱好者，解决反手过渡线路不清晰的问题，练习后可掌握丝滑的直线斜线反手过渡。",
+      "in_path": false,
+      "path_order": 0
+    },
+    {
+      "bvid": "BV1tgho6DE1n",
+      "title": "羽毛球双打重杀教学！成人班学员杀球爆改全过程！适合有基础的业余中高手！全是细节",
+      "cover_url": "",
+      "duration_sec": 959,
+      "up_name": "大G羽毛球",
+      "video_url": "https://www.bilibili.com/video/BV1tgho6DE1n",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV1tgho6DE1n&high_quality=1",
+      "primary_category": "smash",
+      "secondary_category": "doubles",
+      "difficulty": "advanced",
+      "recommend_reason": "适合有基础的业余羽毛球中高手，针对杀球进行动作修改提升，学习双打重杀的细节技巧",
+      "in_path": false,
+      "path_order": 0
+    },
+    {
+      "bvid": "BV1XFa969EfX",
+      "title": "发接发 让对手不舒服的接球#羽毛球 #羽毛球教学 #刘辉羽毛球 #羽毛球技术",
+      "cover_url": "",
+      "duration_sec": 310,
+      "up_name": "羽辉同行2026",
+      "video_url": "https://www.bilibili.com/video/BV1XFa969EfX",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV1XFa969EfX&high_quality=1",
+      "primary_category": "tactics",
+      "secondary_category": "",
+      "difficulty": "intermediate",
+      "recommend_reason": "适合想要提升发接发水平的业余羽毛球爱好者，帮助掌握让对手接球不舒服的发接发技巧，提升开局对抗优势。",
+      "in_path": false,
+      "path_order": 0
     }
   ],
   "categories": [
+    {
+      "slug": "clear",
+      "name": "高远球",
+      "count": 1
+    },
+    {
+      "slug": "smash",
+      "name": "杀球",
+      "count": 2
+    },
     {
       "slug": "net",
       "name": "网前",
       "count": 2
     },
     {
+      "slug": "lift",
+      "name": "挑球与过渡",
+      "count": 1
+    },
+    {
       "slug": "doubles",
       "name": "双打",
       "count": 2
+    },
+    {
+      "slug": "tactics",
+      "name": "战术与意识",
+      "count": 1
     }
   ],
   "path": [],
