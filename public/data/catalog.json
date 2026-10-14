@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:00:40Z",
+  "generated_at": "2026-10-14T04:00:15Z",
   "site_title": "羽毛球教程",
   "videos": [
     {
@@ -136,13 +136,88 @@
       "recommend_reason": "适合想要提升发接发水平的业余羽毛球爱好者，帮助掌握让对手接球不舒服的发接发技巧，提升开局对抗优势。",
       "in_path": false,
       "path_order": 0
+    },
+    {
+      "bvid": "BV1VSa26MEMv",
+      "title": "反手高远 完整纯享版 #羽毛球 #羽毛球教学 #刘辉羽毛球 #羽毛球技巧",
+      "cover_url": "",
+      "duration_sec": 713,
+      "up_name": "羽辉同行2026",
+      "video_url": "https://www.bilibili.com/video/BV1VSa26MEMv",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV1VSa26MEMv&high_quality=1",
+      "primary_category": "clear",
+      "secondary_category": "",
+      "difficulty": "intermediate",
+      "recommend_reason": "适合想要学习反手高远球的羽毛球爱好者，完整呈现反手高远的动作内容，看完可以跟着练习规范动作。",
+      "in_path": false,
+      "path_order": 0
+    },
+    {
+      "bvid": "BV1YDaW6MEbF",
+      "title": "双打被推底线怎么接？后场两点被动抽球教学！被动哦！业余超实用的回球技术",
+      "cover_url": "",
+      "duration_sec": 1149,
+      "up_name": "大G羽毛球",
+      "video_url": "https://www.bilibili.com/video/BV1YDaW6MEbF",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV1YDaW6MEbF&high_quality=1",
+      "primary_category": "defense",
+      "secondary_category": "doubles",
+      "difficulty": "intermediate",
+      "recommend_reason": "适合业余羽毛球双打爱好者，解决被推底线后场被动不知如何回球的问题，可学习掌握实用的被动抽球回球技术",
+      "in_path": false,
+      "path_order": 0
+    },
+    {
+      "bvid": "BV1QnY16wEqs",
+      "title": "启动慢？变向弱？根源在于收核心！",
+      "cover_url": "",
+      "duration_sec": 372,
+      "up_name": "爱打球的羊",
+      "video_url": "https://www.bilibili.com/video/BV1QnY16wEqs",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV1QnY16wEqs&high_quality=1",
+      "primary_category": "footwork",
+      "secondary_category": "",
+      "difficulty": "intermediate",
+      "recommend_reason": "适合存在启动慢、变向弱问题的羽毛球爱好者，帮你找到步法问题的根源，可以针对性练习核心控制提升移动能力。",
+      "in_path": false,
+      "path_order": 0
+    },
+    {
+      "bvid": "BV12oay69Eka",
+      "title": "步伐启动 完整纯享版 #羽毛球 #羽毛球教学 #刘辉羽毛球 #羽毛球步伐",
+      "cover_url": "",
+      "duration_sec": 448,
+      "up_name": "羽辉同行2026",
+      "video_url": "https://www.bilibili.com/video/BV12oay69Eka",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV12oay69Eka&high_quality=1",
+      "primary_category": "footwork",
+      "secondary_category": "",
+      "difficulty": "beginner",
+      "recommend_reason": "适合想要学习羽毛球基础步法的业余爱好者，解决步法启动不规范、启动慢的问题，看完可练习正确的启动动作。",
+      "in_path": false,
+      "path_order": 3
+    },
+    {
+      "bvid": "BV1UPa66yEoD",
+      "title": "羽球大道理 最后赢就行#羽毛球 #羽毛球教学 #刘辉羽毛球 #羽毛球技巧",
+      "cover_url": "",
+      "duration_sec": 171,
+      "up_name": "羽辉同行2026",
+      "video_url": "https://www.bilibili.com/video/BV1UPa66yEoD",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV1UPa66yEoD&high_quality=1",
+      "primary_category": "tactics",
+      "secondary_category": "",
+      "difficulty": "intermediate",
+      "recommend_reason": "适合各类业余羽毛球爱好者，帮助建立正确的比赛意识，梳理正确的赢球思路。",
+      "in_path": false,
+      "path_order": 0
     }
   ],
   "categories": [
     {
       "slug": "clear",
       "name": "高远球",
-      "count": 1
+      "count": 2
     },
     {
       "slug": "smash",
@@ -160,6 +235,16 @@
       "count": 1
     },
     {
+      "slug": "defense",
+      "name": "接杀与防守",
+      "count": 1
+    },
+    {
+      "slug": "footwork",
+      "name": "步法",
+      "count": 2
+    },
+    {
       "slug": "doubles",
       "name": "双打",
       "count": 2
@@ -167,7 +252,7 @@
     {
       "slug": "tactics",
       "name": "战术与意识",
-      "count": 1
+      "count": 2
     }
   ],
   "path": [],
