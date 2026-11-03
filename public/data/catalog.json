@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T04:00:15Z",
+  "generated_at": "2026-11-03T16:00:21Z",
   "site_title": "羽毛球教程",
   "videos": [
     {
@@ -211,18 +211,98 @@
       "recommend_reason": "适合各类业余羽毛球爱好者，帮助建立正确的比赛意识，梳理正确的赢球思路。",
       "in_path": false,
       "path_order": 0
+    },
+    {
+      "bvid": "BV19kJC6wENH",
+      "title": "正手滑板 球往左后放#羽毛球 #羽毛球教学 #刘辉羽毛球 #羽毛球技术",
+      "cover_url": "",
+      "duration_sec": 169,
+      "up_name": "羽辉同行2026",
+      "video_url": "https://www.bilibili.com/video/BV19kJC6wENH",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV19kJC6wENH&high_quality=1",
+      "primary_category": "drop",
+      "secondary_category": "",
+      "difficulty": "intermediate",
+      "recommend_reason": "适合有一定基础的羽毛球爱好者，学习正手滑板吊球技术，掌握往左后场放球的动作技巧。",
+      "in_path": false,
+      "path_order": 0
+    },
+    {
+      "bvid": "BV1hHWc6nEZw",
+      "title": "反手过渡速成方法扑球原理 #羽毛球 #羽毛球教学 #刘辉羽毛球 #羽毛球技术",
+      "cover_url": "",
+      "duration_sec": 281,
+      "up_name": "羽辉同行2026",
+      "video_url": "https://www.bilibili.com/video/BV1hHWc6nEZw",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV1hHWc6nEZw&high_quality=1",
+      "primary_category": "lift",
+      "secondary_category": "net",
+      "difficulty": "intermediate",
+      "recommend_reason": "适合有一定基础的羽毛球爱好者，学习反手过渡技巧与网前扑球原理，帮助提升反手和网前的处理球能力",
+      "in_path": false,
+      "path_order": 0
+    },
+    {
+      "bvid": "BV1uKaK6LET9",
+      "title": "后退步伐慢的3大原因！尤其是第二原因，学起来，解决了就是闪电侠【李宇轩教练】",
+      "cover_url": "",
+      "duration_sec": 900,
+      "up_name": "李宇轩教练",
+      "video_url": "https://www.bilibili.com/video/BV1uKaK6LET9",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV1uKaK6LET9&high_quality=1",
+      "primary_category": "footwork",
+      "secondary_category": "",
+      "difficulty": "intermediate",
+      "recommend_reason": "适合后退步法偏慢的羽毛球爱好者，帮你找出步法慢的核心原因，学习后可以有效提升后退步法速度。",
+      "in_path": false,
+      "path_order": 0
+    },
+    {
+      "bvid": "BV18xYm6iEEW",
+      "title": "【转换重心】是所有业余球员必须学的，是重杀的核心动作！但很多人学的不对，今天学起来进化重炮【李宇轩教练】",
+      "cover_url": "",
+      "duration_sec": 846,
+      "up_name": "李宇轩教练",
+      "video_url": "https://www.bilibili.com/video/BV18xYm6iEEW",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV18xYm6iEEW&high_quality=1",
+      "primary_category": "smash",
+      "secondary_category": "",
+      "difficulty": "intermediate",
+      "recommend_reason": "适合想要提升重杀威力的业余羽毛球爱好者，纠正错误的转换重心动作，掌握重杀的核心发力基础。",
+      "in_path": false,
+      "path_order": 0
+    },
+    {
+      "bvid": "BV1nTpb66Eou",
+      "title": "业余反手学不好的原因！都是大实话 90%业余中招！",
+      "cover_url": "",
+      "duration_sec": 236,
+      "up_name": "大G羽毛球",
+      "video_url": "https://www.bilibili.com/video/BV1nTpb66Eou",
+      "embed_url": "https://player.bilibili.com/player.html?bvid=BV1nTpb66Eou&high_quality=1",
+      "primary_category": "clear",
+      "secondary_category": "",
+      "difficulty": "intermediate",
+      "recommend_reason": "适合打不好反手的业余羽毛球爱好者，分析反手学不好的常见原因，帮助爱好者找准问题纠正错误。",
+      "in_path": false,
+      "path_order": 0
     }
   ],
   "categories": [
     {
       "slug": "clear",
       "name": "高远球",
-      "count": 2
+      "count": 3
+    },
+    {
+      "slug": "drop",
+      "name": "吊球",
+      "count": 1
     },
     {
       "slug": "smash",
       "name": "杀球",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "net",
@@ -232,7 +312,7 @@
     {
       "slug": "lift",
       "name": "挑球与过渡",
-      "count": 1
+      "count": 2
     },
     {
       "slug": "defense",
@@ -242,7 +322,7 @@
     {
       "slug": "footwork",
       "name": "步法",
-      "count": 2
+      "count": 3
     },
     {
       "slug": "doubles",
